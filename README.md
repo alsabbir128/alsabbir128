@@ -35,7 +35,7 @@
 <p><b>Web Developer · Coding</b></p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN_HANDLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah_Al_Sabbir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-al-sabbir-54b05b294/)
 [![X](https://img.shields.io/badge/aalsabbir-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aalsabbir)
 [![Instagram](https://img.shields.io/badge/Instagram-al__sabbir23-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/al_sabbir23/)
 
