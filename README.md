@@ -36,7 +36,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN_HANDLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
-[![X](https://img.shields.io/badge/X-YOUR_X_HANDLE-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)
+[![X](https://img.shields.io/badge/X-YOUR_X_HANDLE-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aalsabbir)
 [![Instagram](https://img.shields.io/badge/Instagram-al__sabbir23-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/al_sabbir23/)
 
 <br>
