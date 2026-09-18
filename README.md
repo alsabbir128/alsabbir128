@@ -1,12 +1,5 @@
 ## Hi there , I am Sabbir👋
 
-- 🔭 I’m currently working on Web Developing.
-- 🌱 learning from programming hero And NSU.
-- 👯 I’m looking to collaborate on different projects.
-- 💬 U can communicate with me about things u are interested to know about.
-- 📫 How to reach me: (FB) [https://www.facebook.com/al.sabbir.39]
-
--->
 # 💫 About Me:
 - 🔭 I’m currently working on Web Developing.<br>- 🌱 learning from programming hero And NSU.<br>- 👯 I’m looking to collaborate on different projects.<br>- 💬 U can communicate with me about things u are interested to know about.<br>- 📫 How to reach me: (FB) [https://www.facebook.com/al.sabbir.39]
 
