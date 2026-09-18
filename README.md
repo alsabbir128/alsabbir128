@@ -1,5 +1,47 @@
-## Hi there , I am Sabbir👋
+<!--
+  PROFILE README
+  Repo: github.com/alsabbir128/alsabbir128
+-->
+<div align="center">
 
+<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
+     wordmark (wipes in left-to-right, then rocks on its vertical axis).
+     widths are picked so both panels land at the same visual height. -->
+
+<h3><code>alsabbir128@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="280" alt="Abdullah Al Sabbir — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="600" alt="Abdullah Al Sabbir — 3D ASCII wordmark" /></td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+
+<h3><code>alsabbir128@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph — auto-refreshed daily" />
+
+<br>
+<br>
+
+<h3><code>alsabbir128@github ~ $ ./links.sh</code></h3>
+
+<p><b>Web Developer · Coding</b></p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN_HANDLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+[![X](https://img.shields.io/badge/X-YOUR_X_HANDLE-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)
+[![Instagram](https://img.shields.io/badge/Instagram-al__sabbir23-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/al_sabbir23/)
+
+<br>
+
+</div>
 
 # 💫 About Me:
 - 🔭 I’m currently working on Web Developing.<br>- 🌱 learning from programming hero And NSU.<br>- 👯 I’m looking to collaborate on different projects.<br>- 💬 U can communicate with me about things u are interested to know about.<br>- 📫 How to reach me: (FB) [https://www.facebook.com/al.sabbir.39]
