@@ -3,11 +3,6 @@
   Repo: github.com/alsabbir128/alsabbir128
 -->
 <div align="center">
-
-<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
-     wordmark (wipes in left-to-right, then rocks on its vertical axis).
-     widths are picked so both panels land at the same visual height. -->
-
 <h3><code>alsabbir128@github ~ $ whoami</code></h3>
 
 <table>
@@ -17,8 +12,13 @@
 </tr>
 </table>
 
+## 💫 About Me:
+
+- 🔭 I’m currently working on Web Developing.<br>- 🌱 learning from programming hero And NSU.<br>- 👯 I’m looking to collaborate on different projects.<br>- 💬 U can communicate with me about things u are interested to know about.<br>- 📫 How to reach me: abdullahals128@gmail.com
+
 <br>
 <br>
+
 
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
@@ -45,9 +45,7 @@
 
 </div>
 
-## 💫 About Me:
 
-- 🔭 I’m currently working on Web Developing.<br>- 🌱 learning from programming hero And NSU.<br>- 👯 I’m looking to collaborate on different projects.<br>- 💬 U can communicate with me about things u are interested to know about.<br>- 📫 How to reach me: abdullahals128@gmail.com
   
 
 
