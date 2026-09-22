@@ -2,6 +2,25 @@
   PROFILE README
   Repo: github.com/alsabbir128/alsabbir128
 -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullah-al-sabbir-54b05b294/">
+    <img src="./banner.jpg.jpg" alt="Abdullah Al Sabbir Banner" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullah-al-sabbir-54b05b294/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abdullahals128@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+## 💫 About Me:
+
+- 🔭 I’m currently working on Web Developing.<br>- 🌱 learning from programming hero And NSU.<br>- 👯 I’m looking to collaborate on different projects.<br>- 💬 U can communicate with me about things u are interested to know about.<br>- 📫 How to reach me: abdullahals128@gmail.com
+
 <div align="center">
 <h3><code>alsabbir128@github ~ $ whoami</code></h3>
 
@@ -11,10 +30,6 @@
 <td valign="top"><img src="./wordmark.svg" width="600" alt="Abdullah Al Sabbir — 3D ASCII wordmark" /></td>
 </tr>
 </table>
-
-## 💫 About Me:
-
-- 🔭 I’m currently working on Web Developing.<br>- 🌱 learning from programming hero And NSU.<br>- 👯 I’m looking to collaborate on different projects.<br>- 💬 U can communicate with me about things u are interested to know about.<br>- 📫 How to reach me: abdullahals128@gmail.com
 
 <br>
 <br>
