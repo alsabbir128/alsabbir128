@@ -16,22 +16,44 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+<br/>
 
-## 💫 About Me:
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Al Sabbir</h1></summary>
+    <!--- typo --->
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=305CDE&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Building+Scalable+%26+Fast+Web+Apps;Turning+Code+Into+Powerful+Products;Obsessed+With+Clean+Architecture" alt="Typing SVG" /></a>
+  </ul>
+</div>
 
-- 🔭 I’m currently working on Web Developing.<br>- 🌱 learning from programming hero And NSU.<br>- 👯 I’m looking to collaborate on different projects.<br>- 💬 U can communicate with me about things u are interested to know about.<br>- 📫 How to reach me: abdullahals128@gmail.com
+<br/>
 
 <div align="center">
 <h3><code>alsabbir128@github ~ $ whoami</code></h3>
+</div>
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="280" alt="Abdullah Al Sabbir — ASCII portrait" /></td>
-<td valign="top"><img src="./wordmark.svg" width="600" alt="Abdullah Al Sabbir — 3D ASCII wordmark" /></td>
+<td width="60%" valign="top">
+
+### 💫 About Me:
+
+- 🔭 I'm currently working on Web Developing.
+- 🌱 learning from programming hero and NSU.
+- 👯 I'm looking to collaborate on different projects.
+- 💬 U can communicate with me about things u are interested to know about.
+- 📫 How to reach me: abdullahals128@gmail.com
+
+</td>
+<td width="40%" align="center" valign="top">
+
+<img src="./avi-ascii.svg" width="180" alt="Abdullah Al Sabbir — ASCII portrait" /><br>
+<img src="./wordmark.svg" width="220" alt="Abdullah Al Sabbir — wordmark" />
+
+</td>
 </tr>
 </table>
-
-<br>
 <br>
 
 
