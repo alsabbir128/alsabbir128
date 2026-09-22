@@ -34,12 +34,11 @@
 <td width="60%" valign="top">
 
 ### 💫 About Me:
-
-- 🔭 I'm currently working on Web Developing.
-- 🌱 learning from programming hero and NSU.
-- 👯 I'm looking to collaborate on different projects.
-- 💬 U can communicate with me about things u are interested to know about.
-- 📫 How to reach me: abdullahals128@gmail.com
+- 💻 Role: Web Developer building responsive and reliable digital experiences.
+- 📖 Background: Sharpening skills through NSU and Programming Hero.
+- ⚡ Open for: Collaborative coding, open-source projects, and new builds.
+- 🗣️ Topics: Let’s talk development, software ideas, or learning journeys.
+- ✉️ Ping Me: abdullahals128@gmail.com
 
 </td>
 <td width="40%" align="center" valign="top">
