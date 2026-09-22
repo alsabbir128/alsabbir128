@@ -29,10 +29,6 @@
 
 <br/>
 
-<div align="center">
-<h3><code>alsabbir128@github ~ $ whoami</code></h3>
-</div>
-
 <table>
 <tr>
 <td width="60%" valign="top">
@@ -61,11 +57,6 @@
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
 <br>
 <br>
 
@@ -83,8 +74,6 @@
 </div>
 
 
-  
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -101,13 +90,15 @@
 
 
 # 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ![](https://github-readme-stats.shion.dev/api?username=alsabbir128&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=alsabbir128&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=alsabbir128&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alsabbir128&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ### ✍️ Random Dev Quote
