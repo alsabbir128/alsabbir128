@@ -23,14 +23,16 @@
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-<h3><code>alsabbir128@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph — auto-refreshed daily" />
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 <br>
 <br>
 
-<h3><code>alsabbir128@github ~ $ ./links.sh</code></h3>
+
 
 <p><b>Web Developer · Coding</b></p>
 
@@ -45,7 +47,7 @@
 
 ## 💫 About Me:
 
-- 🔭 I’m currently working on Web Developing.<br>- 🌱 learning from programming hero And NSU.<br>- 👯 I’m looking to collaborate on different projects.<br>- 💬 U can communicate with me about things u are interested to know about.<br>- 📫 How to reach me: (FB) [https://www.facebook.com/al.sabbir.39]
+- 🔭 I’m currently working on Web Developing.<br>- 🌱 learning from programming hero And NSU.<br>- 👯 I’m looking to collaborate on different projects.<br>- 💬 U can communicate with me about things u are interested to know about.<br>- 📫 How to reach me: abdullahals128@gmail.com
   
 
 
