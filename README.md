@@ -4,7 +4,7 @@
 -->
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-al-sabbir-54b05b294/">
-    <img src="./github_banner.png" alt="Abdullah Al Sabbir Banner" width="100%" />
+    <img src="./alsabbir banner Github.jpg" alt="Abdullah Al Sabbir Banner" width="100%" />
   </a>
 </p>
 
