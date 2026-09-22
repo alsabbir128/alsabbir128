@@ -35,6 +35,7 @@
 
 ### 💫 About Me:
 - 💻 Role: Web Developer building responsive and reliable digital experiences.
+- 🏍️ Exploring: I am exploring NEXT.JS , Typescript.
 - 📖 Background: Sharpening skills through NSU and Programming Hero.
 - ⚡ Open for: Collaborative coding, open-source projects, and new builds.
 - 🗣️ Topics: Let’s talk development, software ideas, or learning journeys.
