@@ -21,7 +21,7 @@
 <!--- title --->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Al Sabbir</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Sabbir</h1></summary>
     <!--- typo --->
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=305CDE&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Building+Scalable+%26+Fast+Web+Apps;Turning+Code+Into+Powerful+Products;Obsessed+With+Clean+Architecture" alt="Typing SVG" /></a>
   </ul>
@@ -35,7 +35,7 @@
 
 ### 💫 About Me:
 - 💻 Role: Web Developer building responsive and reliable digital experiences.
-- 🏍️ Exploring: I am exploring NEXT.JS , Typescript.
+- 🏍️ Exploring: NEXT.JS , Typescript.
 - 📖 Background: Sharpening skills through NSU and Programming Hero.
 - ⚡ Open for: Collaborative coding, open-source projects, and new builds.
 - 🗣️ Topics: Let’s talk development, software ideas, or learning journeys.
