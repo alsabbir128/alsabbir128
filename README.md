@@ -85,7 +85,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 <br>
-<h3 align="left">Socials:</h3>
+<h1 align="left">✨ Socials:</h1>
 <p align="left">
 <a href="https://twitter.com/aalsabbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aalsabbir" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abdullah-al-sabbir-54b05b294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah al sabbir" height="30" width="40" /></a>
