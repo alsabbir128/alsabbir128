@@ -105,7 +105,7 @@
 <br>
 
 
-# 📊 GitHub Stats:
+<h2 align="center">⚡Git-Hub Stats ⚡</h2>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
