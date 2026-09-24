@@ -113,13 +113,16 @@
 
 <div data-importer="stats" align="center">
   
-  <img src="https://streak-stats.demolab.com?user=alsabbir128&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <br>
-  <img src="https://raw.githubusercontent.com/alsabbir128/alsabbir128/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="199" alt="languages graph"  />
-  <br>
+![](https://github-readme-stats.shion.dev/api?username=alsabbir128&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=alsabbir128&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+![](https://streak-stats.demolab.com/?user=alsabbir128&theme=tokyonight&hide_border=false)<br/>
+
+
+
   
   <br>
-  <img src="https://raw.githubusercontent.com/alsabbir128/alsabbir128/activity-graph-output/activity-graph.svg?radius=0&theme=modern-lilac&area=true&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/alsabbir128/alsabbir128/activity-graph-output/activity-graph.svg?radius=5&theme=modern-lilac&area=true&order=5&hide_border=true&hide_title=true" height="500" alt="activity-graph graph"  />
 </div>
 
 ###
